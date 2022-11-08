@@ -1,4 +1,4 @@
-# flask-polling-app
+# snyk-custom-rules-examples
 An example of Snyk IaC custom rule for Azure Key Vault to detect and disallow the default action (Allow) for network ACL.
 
 ## Bundle the rule
